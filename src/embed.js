@@ -4,7 +4,7 @@ const config = require('./config');
 const SCAM_EMBED = {
   color: 0xFF0000,
   author: null,
-  title: '🚨 Peringatan',
+  title: '🚨 WARNING',
   description: '{user} gambar yang kamu kirim terdeteksi sebagai **scam** dan sudah dihapus secara otomatis.\n',
   multiImageLine: '{totalCount} gambar terdeteksi sebagai scam.\n',
   adminContact: 'Jika ada kesalahan, silakan hubungi admin.',
