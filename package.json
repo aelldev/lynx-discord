@@ -1,7 +1,7 @@
 {
   "name": "lynx",
   "version": "1.0.0",
-  "description": "Open-source Discord scam image detector pakai OCR + fingerprint pattern matching",
+  "description": "Bot Discord open-source untuk deteksi & hapus gambar scam casino/crypto otomatis pakai OCR (Tesseract.js) + fingerprint matching 4 lapis. Tanpa API berbayar, tanpa database.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
