@@ -1,0 +1,18 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "botName": "LYNX",
+
+  "threshold": 60,
+  "autoDelete": true,
+  "monitoredChannels": [],
+  "ignoredChannels": [],
+
+  "workerCount": 4,
+  "maxConcurrentOcr": 8,
+
+  "logging": {
+    "logScan": true,
+    "logOcrText": false,
+    "debugMode": false
+  }
+}

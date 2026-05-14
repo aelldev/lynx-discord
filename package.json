@@ -1,0 +1,24 @@
+{
+  "name": "lynx",
+  "version": "1.0.0",
+  "description": "Open-source Discord scam image detector pakai OCR + fingerprint pattern matching",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "scam-detector",
+    "ocr",
+    "tesseract",
+    "moderation"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.3",
+    "sharp": "^0.33.5",
+    "tesseract.js": "^5.1.1"
+  }
+}
